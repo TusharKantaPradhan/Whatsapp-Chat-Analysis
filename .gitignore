@@ -1,0 +1,9 @@
+.DS_Store
+__pycache__/
+*.pyc
+.env
+.env.local
+.ipynb_checkpoints/
+data/*
+!data/README.md
+plots/
